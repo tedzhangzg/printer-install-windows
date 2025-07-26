@@ -1,0 +1,7 @@
+printer_name_official,printerport_printer_name_or_ip_address,printerport_protocol,printerport_raw_port_number,printerport_lpr_queue_name,printerport_lpr_byte_counting_enabled,printerport_snmp_status_enabled,printerport_snmp_community_name,printerport_snmp_device_index,printer_drivername_in_inf,org_name
+Canon iR-ADV C3835,printer-canon3835.stf.gospellight.sg,Raw,9100,BINARY_P1,FALSE,FALSE,public,1,Canon Generic Plus UFR II,GLCCPunggol
+EPSON WF-3520 Series,printer-epson3520.stf.gospellight.sg,Raw,9100,BINARY_P1,FALSE,TRUE,public,1,EPSON WF-3520 Series,GLCCPunggol
+EPSON L3250 Series,printer-epson3250.stf.gospellight.sg,Raw,9100,BINARY_P1,FALSE,TRUE,public,1,EPSON L3250 Series,GLCCPunggol
+HP OfficeJet Pro 8020 series,172.19.0.20,Raw,9100,BINARY_P1,FALSE,TRUE,public,1,HP OfficeJet Pro 8020 series,GLCC360
+Brother HL-2270DW series,172.19.128.20,LPR,515,BINARY_P1,FALSE,TRUE,public,1,Brother HL-2270DW series,GLCC360
+Brother MFC-L2740DW series,192.168.1.250,LPR,515,BINARY_P1,FALSE,TRUE,public,1,Brother MFC-L2740DW series,ZHANGJIA
